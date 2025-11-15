@@ -4,7 +4,6 @@ npm-debug.log
 yarn-error.log
 
 # Builds
-builds/
 apps/*/dist/
 apps/*/node_modules/
 
